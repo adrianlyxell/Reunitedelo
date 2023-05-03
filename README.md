@@ -1,4 +1,4 @@
-
+# Elo
 TotalElo                      MatchElo                      BonusElo                      
 ----------------              ----------------              ----------------              
 1. hampus - 1329              1. viktor - 1257              1. hampus - 72                
